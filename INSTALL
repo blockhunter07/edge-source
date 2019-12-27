@@ -1,0 +1,9 @@
+Building EDGE-VEXILLUM
+
+See doc/readme-qt.rst for instructions on building EDGE-VEXILLUM QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EDGE-VEXILLUM.
+
+See doc/build-*.txt for instructions on building edge-vexillumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of EDGE-VEXILLUM.

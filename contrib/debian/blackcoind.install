@@ -1,0 +1,2 @@
+debian/bin/edge-vexillumd usr/bin
+src/edge-vexillumd usr/lib/edge-vexillum
